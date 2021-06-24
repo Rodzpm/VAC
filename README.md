@@ -39,7 +39,7 @@
 
 #
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+https://github.com/0FA-git/images/blob/main/youtube.png
 
 <p align="center"> 
     <b>Informations</b><br>
