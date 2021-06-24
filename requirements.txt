@@ -1,6 +1,6 @@
 colorama
 opencv-python
-shutil
+pytest-shutil
 pillow
 subprocess
 pygame
