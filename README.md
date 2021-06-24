@@ -41,7 +41,7 @@
 
 <p align="center">
 	<img src="https://github.com/0FA-git/images/blob/main/youtube.png" />
-	Tutorial on how to install it
+	<a href="https://youtu.be/h39b-b0EdXc">Tutorial on how to install it</a>
 	<br>
 </p>
 
