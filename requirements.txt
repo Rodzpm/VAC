@@ -2,6 +2,6 @@ colorama
 opencv-python
 pytest-shutil
 pillow
-subprocess
+subprocess.run
 pygame
 fpstimer
