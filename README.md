@@ -29,12 +29,12 @@
 
 ## How to Use:
 ```cs
-1 Download a video in .mp4.
-2 Run main.py (python main.py).
-3 The first time, choose the "New video" option.
-4 Specify the path of your video.
-5 Once the conversion is done, you can choose the "Play video" option.
-6 Even after closing the program you will be able to replay the last video you converted.
+[1] Download a video in .mp4.
+[2] Run main.py (python main.py).
+[3] The first time, choose the "New video" option.
+[4] Specify the path of your video.
+[5] Once the conversion is done, you can choose the "Play video" option.
+[6] Even after closing the program you will be able to replay the last video you converted.
 ```
 
 #
