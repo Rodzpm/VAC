@@ -28,7 +28,7 @@
 #
 
 ## How to Use:
-```cs
+```
 [1] Download a video in .mp4.
 [2] Run main.py (python main.py).
 [3] The first time, choose the "New video" option.
