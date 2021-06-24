@@ -21,7 +21,7 @@
 ```cs
 - Install python 3.5+ (remember to click on "add to path").
 - Run install.bat.
-- Install ffmpeg.exe using the link in "install ffmpeg here.txt" and place it in the same folder as main.py.
+![#f03c15]- Install ffmpeg.exe using the link in "install ffmpeg here.txt" and place it in the same folder as main.py.
 
 ```
 
