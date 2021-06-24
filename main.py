@@ -171,4 +171,10 @@ def progress_bar(current, total, barLength=25):
 if __name__ == "__main__":
     clear = lambda: os.system('cls')
     init(convert=True)
+            try:
+            with open("ffmpeg.exe"): pass
+        except IOError:
+            print("Please, install ffmpeg.exe")
+            input("Press any key to continue...")
+            exit()
     main()
