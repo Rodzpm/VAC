@@ -1,9 +1,7 @@
-from colorama import init, Fore
-import os
-import cv2
-import sys
-import shutil
-from PIL import Image
-import subprocess
-import pygame
-import fpstimer
+colorama
+opencv-python
+shutil
+pillow
+subprocess
+pygame
+fpstimer
