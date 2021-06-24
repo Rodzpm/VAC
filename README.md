@@ -39,7 +39,7 @@
 
 #
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h39b-b0EdXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 
 <p align="center"> 
     <b>Informations</b><br>
