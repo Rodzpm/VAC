@@ -39,7 +39,11 @@
 
 #
 
-https://github.com/0FA-git/images/blob/main/youtube.png
+<p align="center">
+	<img src="https://github.com/0FA-git/images/blob/main/youtube.png" />
+	<br>
+</p>
+
 
 <p align="center"> 
     <b>Informations</b><br>
