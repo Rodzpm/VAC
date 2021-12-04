@@ -1,7 +1,7 @@
 <h1 align="center">Video to Ascii Converter</h1>
 <p align="center">
 	<b>You can follow me here</b><br>
-	<a href="https://github.com/0FA-git">Github</a> |
+	<a href="https://github.com/Rodzpm">Github</a> |
 	<a href="https://twitter.com/ehcmoa">Twitter</a> 
 	<br><br>
 	<img src="https://media.giphy.com/media/C8A8UNursWU8NUCoDk/giphy.gif" />
@@ -40,7 +40,7 @@
 #
 
 <p align="center">
-	<img src="https://github.com/0FA-git/images/blob/main/youtube.png" />
+	<img src="https://github.com/Rodzpm/images/blob/main/youtube.png" />
 	<a href="https://youtu.be/h39b-b0EdXc">Tutorial on how to install it</a>
 	<br>
 </p>
@@ -48,10 +48,10 @@
 
 <p align="center"> 
     <b>Informations</b><br>
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/0FA-git/VAC?style=social">
-    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/0FA-git/VAC">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/0FA-git/VAC">
-    <img alt="GitHub" src="https://img.shields.io/github/license/0FA-git/VAC">
-    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/0FA-git/VAC?style=social">
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/0FA-git/VAC?style=social">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Rodzpm/VAC?style=social">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Rodzpm/VAC">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Rodzpm/VAC">
+    <img alt="GitHub" src="https://img.shields.io/github/license/Rodzpm/VAC">
+    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Rodzpm/VAC?style=social">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Rodzpm/VAC?style=social">
 </p>
